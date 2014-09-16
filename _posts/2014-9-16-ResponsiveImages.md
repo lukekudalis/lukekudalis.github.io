@@ -12,6 +12,8 @@ title: Why We Need Them
 
 #### Using Picturefill to implement responsive images:  
 
+Add these two elements to the <head> of your document
+
 ```
 <script>
 // Picture element HTML5 shiv
