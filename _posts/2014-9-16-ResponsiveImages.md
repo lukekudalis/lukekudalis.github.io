@@ -21,5 +21,12 @@ document.createElement("picture");
 </script>
 
 ```
+
+and
+
+```
+<script src="picturefill.js" async></script>
+
+```
  
 
