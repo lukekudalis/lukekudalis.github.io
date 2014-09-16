@@ -8,6 +8,10 @@ title: Why We Need Them
 
 ### Using CSS to implement responsive images:  
 
+
+
+#### Using Picturefill to implement responsive images:  
+
 ```
 <script>
 // Picture element HTML5 shiv
@@ -15,7 +19,5 @@ document.createElement("picture");
 </script>
 
 ```
-
-#### Using Picturefill to implement responsive images:
  
 
