@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Getting Started
+layout: Responsive Images
+title: Why We Need Them
 ---
  
 :chicken:
