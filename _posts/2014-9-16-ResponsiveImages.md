@@ -12,7 +12,7 @@ title: Why We Need Them
 
 #### Using Picturefill to implement responsive images:  
 
-Add these two elements to the head of your document
+Add these two elements to the head of your document:
 
 ```
 <script>
