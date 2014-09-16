@@ -44,7 +44,7 @@ Put this code into the head of your document in a style tag
 
 
 
-#### Using Picturefill to implement responsive images:  
+### Using Picturefill to implement responsive images:  
 
 Add these two elements to the head of your document:
 
